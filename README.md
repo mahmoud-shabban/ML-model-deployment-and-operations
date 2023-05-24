@@ -11,4 +11,4 @@
 
 ---
 I am working in this project and will commit frequently.
-**This is a trainig Project so I might not follow skip some steps in model trainig and data quality checkt in oreder to make simple and quick.**
+**This is a trainig Project so I might skip some steps in model trainig and data quality checks in oreder to make it simple and quick.**
