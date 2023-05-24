@@ -1,0 +1,8 @@
+tmp
+*.zip
+venv
+__pycache__
+.idea
+test.py
+restful.py
+forms.py
