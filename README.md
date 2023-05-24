@@ -3,11 +3,11 @@
 ## In this Repo I will add my work on the MLOPS Area which contains:
 - [x] Model Deployment:
     - [x] using flask.
-    - [] using Django.
-- [] creating the Docker Image.
-- [] create the infra using terraform.
-- [] Deploy to AWS using CICD (github acions or Azure pipelines).
-- [] Apply monitoring to the model and trigger new trining cycle.
+    - [ ] using Django.
+- [ ] creating the Docker Image.
+- [ ] create the infra using terraform.
+- [ ] Deploy to AWS using CICD (github acions or Azure pipelines).
+- [ ] Apply monitoring to the model and trigger new trining cycle.
 
 ---
 I am working in this project and will commit frequently.
